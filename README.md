@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I'm Mohammad Meraj 👋
 
-<!--
-**MerajAmber/MerajAmber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning DevOps in public through the **Building-DevOps-Projects** Challange Daily,
+working through Linux, Git, scripting, and CI/CD fundamentals.
 
-Here are some ideas to get you started:
+**Currently working on:**
+- 🚀 Larning and building projects from public repo.
+- 🐧 Linux & shell scripting fundamentals
+- 🔧 Learning CI/CD pipelines with GitHub Actions
+- ☁️ Learning AWS (VPC, S3, EC2, EFS, LB etc)
+- 🛜 Networking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tools & Skills:**
+`Linux` · `Git & GitHub` · `Bash` · `Python` · `Docker` . `CI/CD`
+
+**Check out my work:**
+- 📘 (https://github.com/MerajAmber/flask-app.git)
+
+**Reach me:**
+[LinkedIn](https://www.linkedin.com/in/merajdbg4/) · [Email](mdmerajstd@gmail.com)
